@@ -3,7 +3,7 @@ h1 {
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     left: 50%;
-    top: 25%;
+    top: 15%;
     transform: translate(-50%,-50%);
     position: absolute;
     font-size: 3em;
@@ -14,7 +14,7 @@ h2{
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     left: 50%;
-    top: 40%;
+    top: 45%;
     transform: translate(-50%,-50%);
     position: absolute;
     font-size: 2.5em;
@@ -22,13 +22,13 @@ h2{
 
 button{
     color: black;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
     left: 50%;
-    top: 70%;
+    top: 80%;
     transform: translate(-50%,-50%);
     position: absolute;
-    width: 10em;
-    height: 5em;
-    background-color:white;;
+    background-color:white;
+    font-size: 2em;
+    padding: 0.7em;
 }
