@@ -37,6 +37,8 @@ const odpovedi = [
     "rozhodně ne na místě srazu",
     "všude ale nikde",
     "dělá si kafe",
+    "dolejvá pití",
+    "chlastá",
 ]
 
 Odpoved();
