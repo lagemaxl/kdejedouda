@@ -30,6 +30,11 @@ const odpovedi = [
     "otevírá tajemnou komnatu",
     "papá vajíčka ",
     "kupuje crypto",
+    "v baru",
+    "na kalbě",
+    "v clubu",
+    "v kasínu",
+    "rozhodně ne na místě srazu",
 ]
 
 Odpoved();
