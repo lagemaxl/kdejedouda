@@ -40,6 +40,9 @@ const odpovedi = [
     "dolejvá pití",
     "chlastá",
     "zrovna vsatal",
+    "krade telefon",
+    "ve vlkau",
+    "na koloběžce",
 ]
 
 Odpoved();
