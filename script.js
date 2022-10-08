@@ -39,10 +39,11 @@ const odpovedi = [
     "dělá si kafe",
     "dolejvá pití",
     "chlastá",
-    "zrovna vsatal",
+    "zrovna vstal",
     "krade telefon",
     "ve vlkau",
     "na koloběžce",
+    "u Patrika v pokoji",
 ]
 
 Odpoved();
