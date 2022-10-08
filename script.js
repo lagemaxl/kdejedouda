@@ -41,7 +41,7 @@ const odpovedi = [
     "chlastá",
     "zrovna vstal",
     "krade telefon",
-    "ve vlkau",
+    "ve vlaku",
     "na koloběžce",
     "u Patrika v pokoji",
 ]
