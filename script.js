@@ -26,7 +26,7 @@ const odpovedi = [
     "nabaluje random čubiny",
     "vychází z poza rohu",
     "sexuje",
-    "je na záchodě",
+    "na záchodě",
     "otevírá tajemnou komnatu",
     "papá vajíčka",
     "kupuje crypto",
@@ -39,6 +39,7 @@ const odpovedi = [
     "dělá si kafe",
     "dolejvá pití",
     "chlastá",
+    "zrovna vsatal",
 ]
 
 Odpoved();
