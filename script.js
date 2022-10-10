@@ -44,6 +44,8 @@ const odpovedi = [
     "ve vlaku",
     "na koloběžce",
     "u Patrika v pokoji",
+    "nakupuje v rimi",
+    "šel pryč",
 ]
 
 Odpoved();
