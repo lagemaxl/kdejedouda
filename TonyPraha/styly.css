@@ -11,3 +11,16 @@ p {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: white; 
   }
+
+  button{
+    color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    left: 50%;
+    top: 80%;
+    transform: translate(-50%,-50%);
+    position: absolute;
+    background-color:white;
+    font-size: 2em;
+    padding: 0.7em;
+}
