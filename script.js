@@ -47,6 +47,10 @@ const odpovedi = [
     "nakupuje v rimi",
     "šel pryč",
     "ztratil se",
+    "na Eiffelovce",
+    "ztratil se v horách",
+    "kupuje bagetu",
+    "kupuje crypto"
 ]
 
 Odpoved();
