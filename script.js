@@ -50,7 +50,10 @@ const odpovedi = [
     "na Eiffelovce",
     "ztratil se v horách",
     "kupuje bagetu",
-    "kupuje crypto"
+    "kupuje crypto",
+    "v 420",
+    "Zvedá Matava5Gaming",
+    "Kodí školní web"
 ]
 
 Odpoved();
