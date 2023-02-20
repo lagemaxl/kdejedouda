@@ -32,3 +32,11 @@ button{
     font-size: 2em;
     padding: 0.7em;
 }
+
+table {
+    color: white;
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
