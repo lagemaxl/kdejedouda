@@ -40,3 +40,19 @@ table {
     left: 50%;
     transform: translate(-50%, 0);
 }
+
+th{
+    font-size: 1.5em;
+    font-family: Arial, Helvetica, sans-serif;
+    border:  1px solid white;
+}
+
+tr {
+    font-size: 1.5em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+td {
+    padding: 0.5em;
+    border:  1px solid white;
+}
