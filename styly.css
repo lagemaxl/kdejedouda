@@ -14,7 +14,7 @@ h2{
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     left: 50%;
-    top: 45%;
+    top: 35%;
     transform: translate(-50%,-50%);
     position: absolute;
     font-size: 2.5em;
@@ -25,7 +25,7 @@ button{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
     left: 50%;
-    top: 80%;
+    top: 60%;
     transform: translate(-50%,-50%);
     position: absolute;
     background-color:white;
@@ -36,7 +36,7 @@ button{
 table {
     color: white;
     position: absolute;
-    top: 100%;
+    top: 70%;
     left: 50%;
     transform: translate(-50%, 0);
 }
