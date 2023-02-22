@@ -91,7 +91,7 @@ async function doudaInfo() {
   }
   // fstring
   
-  div.innerHTML = `<table><thead><tr><th></th><th>1<br>8:00-8:45</th><th>2<br>8:55-9:40</th><th>3<br>9:50-10:35</th><th>4<br>10:50-11:35</th><th>5<br>11:45-12:30</th><th>6<br>12:40-13:25</th><th>7<br>13:35-14:20</th></tr></thead><tbody><tr>${hours}</tr></tbody></table>`;
+  div.innerHTML = `<table><thead><tr><th>1<br>8:00-8:45</th><th>2<br>8:55-9:40</th><th>3<br>9:50-10:35</th><th>4<br>10:50-11:35</th><th>5<br>11:45-12:30</th><th>6<br>12:40-13:25</th><th>7<br>13:35-14:20</th></tr></thead><tbody><tr>${hours}</tr></tbody></table>`;
   console.log(div.innerHTML)
   document.body.appendChild(div);
 }

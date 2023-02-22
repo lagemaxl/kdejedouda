@@ -1,1 +1,72 @@
-[{"name":"Doudík","pos":[[{"room":"Neučí","className":"","group":"","subject":""},{"room":"S221","className":"2ITB","group":"1","subject":"Programování a vývoj aplikací"},{"room":"S221","className":"2ITB","group":"1","subject":"Programování a vývoj aplikací"},{"room":"SHAL","className":"4ITB","group":"celá","subject":"Projekty"},{"room":"S221","className":"2ITC","group":"celá","subject":"Programování a vývoj aplikací"},{"room":"S221","className":"2ITC","group":"celá","subject":"Programování a vývoj aplikací"},{"room":"S221","className":"2ITB","group":"2","subject":"Programování a vývoj aplikací"},{"room":"S221","className":"2ITB","group":"2","subject":"Programování a vývoj aplikací"},{"room":"Neučí","className":"","group":"","subject":""},{"room":"Neučí","className":"","group":"","subject":""},{"room":"Neučí","className":"","group":"","subject":""}],[{"room":"Neučí","className":"","group":"","subject":""},{"room":"S420","className":"2ITB","group":"1","subject":"Aplikační software"},{"room":"S420","className":"2ITB","group":"1","subject":"Aplikační software"},{"room":"S420","className":"2ITB","group":"2","subject":"Aplikační software"},{"room":"S420","className":"2ITB","group":"2","subject":"Aplikační software"},{"room":"Neučí","className":"","group":"","subject":""},{"room":"S427","className":"3ITB","group":"celá","subject":"Projekty"},{"room":"S427","className":"4ITB","group":"celá","subject":"Projekty"},{"room":"Neučí","className":"","group":"","subject":""},{"room":"Neučí","className":"","group":"","subject":""},{"room":"Neučí","className":"","group":"","subject":""}],[{"room":"Neučí","className":"","group":"","subject":""},{"room":"Neučí","className":"","group":"","subject":""},{"room":"Neučí","className":"","group":"","subject":""},{"room":"S221","className":"2ITB","group":"2","subject":"Webové aplikace"},{"room":"S221","className":"2ITB","group":"2","subject":"Webové aplikace"},{"room":"S221","className":"3ITB","group":"celá","subject":"Programování a vývoj aplikací"},{"room":"S221","className":"3ITB","group":"celá","subject":"Programování a vývoj aplikací"},{"room":"Neučí","className":"","group":"","subject":""},{"room":"Neučí","className":"","group":"","subject":""},{"room":"Neučí","className":"","group":"","subject":""},{"room":"Neučí","className":"","group":"","subject":""}],[{"room":"Neučí","className":"","group":"","subject":""},{"room":"S420","className":"2ITA","group":"celá","subject":"Aplikační software"},{"room":"S420","className":"2ITB","group":"2","subject":"Programování a vývoj aplikací"},{"room":"S420","className":"2ITB","group":"2","subject":"Programování a vývoj aplikací"},{"room":"S420","className":"2ITC","group":"celá","subject":"Aplikační software"},{"room":"Neučí","className":"","group":"","subject":""},{"room":"Neučí","className":"","group":"","subject":""},{"room":"Neučí","className":"","group":"","subject":""},{"room":"Neučí","className":"","group":"","subject":""},{"room":"Neučí","className":"","group":"","subject":""},{"room":"Neučí","className":"","group":"","subject":""}],[{"room":"Neučí","className":"","group":"","subject":""},{"room":"Neučí","className":"","group":"","subject":""},{"room":"Neučí","className":"","group":"","subject":""},{"room":"S420","className":"3ITB","group":"celá","subject":"Projekty"},{"room":"S420","className":"2ITB","group":"1","subject":"Webové aplikace"},{"room":"S420","className":"2ITB","group":"1","subject":"Webové aplikace"},{"room":"Neučí","className":"","group":"","subject":""},{"room":"Neučí","className":"","group":"","subject":""},{"room":"Neučí","className":"","group":"","subject":""},{"room":"Neučí","className":"","group":"","subject":""},{"room":"Neučí","className":"","group":"","subject":""}]]}]
+[
+  {
+    "name": "Doudík",
+    "pos": [
+      [
+        { "room": "Neučí", "group": "", "subject": "" },
+        { "room": "S221", "group": "2ITB S1", "subject": "PVA" },
+        { "room": "S221", "group": "2ITB S1", "subject": "PVA" },
+        { "room": "S221", "group": "4ITB celá", "subject": "PRJ" },
+        { "room": "S221", "group": "2ITC celá", "subject": "PVA" },
+        { "room": "S221", "group": "2ITC celá", "subject": "PVA" },
+        { "room": "S221", "group": "2ITB S2", "subject": "PVA" },
+        { "room": "S221", "group": "2ITB S2", "subject": "PVA" },
+        { "room": "Neučí", "group": "", "subject": "" },
+        { "room": "Neučí", "group": "", "subject": "" },
+        { "room": "Neučí", "group": "", "subject": "" }
+      ],
+      [
+        { "room": "Neučí", "group": "", "subject": "" },
+        { "room": "Neučí", "group": "", "subject": "" },
+        { "room": "Neučí", "group": "", "subject": "" },
+        { "room": "Neučí", "group": "", "subject": "" },
+        { "room": "Neučí", "group": "", "subject": "" },
+        { "room": "Neučí", "group": "", "subject": "" },
+        { "room": "S427", "group": "3ITB celá", "subject": "PRJ" },
+        { "room": "S427", "group": "4ITB celá", "subject": "PRJ" },
+        { "room": "Neučí", "group": "", "subject": "" },
+        { "room": "Neučí", "group": "", "subject": "" },
+        { "room": "Neučí", "group": "", "subject": "" }
+      ],
+      [
+        { "room": "Neučí", "group": "", "subject": "" },
+        { "room": "Neučí", "group": "", "subject": "" },
+        { "room": "Neučí", "group": "", "subject": "" },
+        { "room": "S221", "group": "2ITB S2", "subject": "WEA" },
+        { "room": "S221", "group": "2ITB S2", "subject": "WEA" },
+        { "room": "S221", "group": "3ITB celá", "subject": "PVA" },
+        { "room": "S221", "group": "3ITB celá", "subject": "PVA" },
+        { "room": "Neučí", "group": "", "subject": "" },
+        { "room": "Neučí", "group": "", "subject": "" },
+        { "room": "Neučí", "group": "", "subject": "" },
+        { "room": "Neučí", "group": "", "subject": "" }
+      ],
+      [
+        { "room": "Neučí", "group": "", "subject": "" },
+        { "room": "S420", "group": "2ITA celá", "subject": "APS" },
+        { "room": "S420", "group": "2ITB S2", "subject": "PVA" },
+        { "room": "S420", "group": "2ITB S2", "subject": "PVA" },
+        { "room": "S420", "group": "2ITC celá", "subject": "APS" },
+        { "room": "Neučí", "group": "", "subject": "" },
+        { "room": "Neučí", "group": "", "subject": "" },
+        { "room": "Neučí", "group": "", "subject": "" },
+        { "room": "Neučí", "group": "", "subject": "" },
+        { "room": "Neučí", "group": "", "subject": "" },
+        { "room": "Neučí", "group": "", "subject": "" }
+      ],
+      [
+        { "room": "Neučí", "group": "", "subject": "" },
+        { "room": "Neučí", "group": "", "subject": "" },
+        { "room": "Neučí", "group": "", "subject": "" },
+        { "room": "S420", "group": "3ITB celá", "subject": "PRJ" },
+        { "room": "S420", "group": "2ITB S1", "subject": "WEA" },
+        { "room": "S420", "group": "2ITB S1", "subject": "WEA" },
+        { "room": "Neučí", "group": "", "subject": "" },
+        { "room": "Neučí", "group": "", "subject": "" },
+        { "room": "Neučí", "group": "", "subject": "" },
+        { "room": "Neučí", "group": "", "subject": "" },
+        { "room": "Neučí", "group": "", "subject": "" }
+      ]
+    ]
+  }
+]
