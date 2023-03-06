@@ -79,7 +79,6 @@ async function doudaInfo() {
   const div = document.createElement("div");
   const dayOfWeek = new Date().getDay() - 1;
   let hours = "";
-  console.log(data[0].pos[dayOfWeek][1].subject);
   for (i = 1; i < 8; i++) {
     let subject = data[0].pos[dayOfWeek][i].subject
     let room = data[0].pos[dayOfWeek][i].room
@@ -87,12 +86,10 @@ async function doudaInfo() {
     if(subject.includes("Programování a vývoj aplikací")){subject = "PVA"}
     
     hours += `<td>${subject}<br>${room}</td>`;
-    console.log(div.innerHTML);
   }
   // fstring
   
   div.innerHTML = `<table><thead><tr><th>1<br>8:00-8:45</th><th>2<br>8:55-9:40</th><th>3<br>9:50-10:35</th><th>4<br>10:50-11:35</th><th>5<br>11:45-12:30</th><th>6<br>12:40-13:25</th><th>7<br>13:35-14:20</th></tr></thead><tbody><tr>${hours}</tr></tbody></table>`;
-  console.log(div.innerHTML)
   document.body.appendChild(div);
 }
 
