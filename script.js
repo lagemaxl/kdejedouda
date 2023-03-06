@@ -94,3 +94,16 @@ async function doudaInfo() {
 }
 
 doudaInfo();
+let time = new Date();
+let timeNow = new Date(time.getFullYear(), time.getMonth(), time.getDate(), time.getHours(), time.getMinutes());
+let minutes = time.getMinutes();
+
+setInterval(async function () {
+  time = new Date();
+  timeNow = new Date(time.getFullYear(), time.getMonth(), time.getDate(), time.getHours(), time.getMinutes());
+  minutes = time.getMinutes();
+  if (minutes % 10 == 5) {
+    await new Promise((resolve) => setTimeout(resolve, 10000));
+    await doudaInfo();
+  }
+}, 60000);
