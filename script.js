@@ -53,6 +53,10 @@ const odpovedi = [
   "v 420",
   "Zvedá Matava5Gaming",
   "Kodí školní web",
+  "Na mácháči 🏖️",
+  "Hraje šipky",
+  "kdovíkde",
+  "míra je Míra",
 ];
 
 Odpoved();
