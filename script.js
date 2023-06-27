@@ -57,6 +57,23 @@ const odpovedi = [
   "Hraje šipky",
   "kdovíkde",
   "míra je Míra",
+  "v České Lípě",
+  "v Praze",
+  "v Brně",
+  "v Ostravě",
+  "v Plzni",
+  "v Liberci",
+  "v Jablonci",
+  "v Teplicích",
+  "v Ústí",
+  "v Chomutově",
+  "v Mostě",
+  "v Litoměřicích",
+  "v Děčíně",
+  "v Jirkově",
+  "v Kadaní",
+  "v Kralupech",
+  "v Táboře"
 ];
 
 Odpoved();
